@@ -1,57 +1,121 @@
-.slider {
-    position: relative;
-    left: 300px;
-    top: 40px;
-    border-radius: 20px;
-    width: 800px;
-}
-
-#slider1 {
-    border-radius: 20px;
-}
-
-#slider2 {
-    border-radius: 20px;
-}
-
-#slider3 {
-    border-radius: 20px;
-}
-
-.kategori h2 {
-    position: relative;
-    left: 100px;
-    top: 50px;
-    font-size: 20px;
-}
-
-.kategori1 {
-    position: relative;
-    background-size: 100%;
-    width: 100px;
-    height: 100px;
-    top: 55px;
-    left: 35px;
-}
-
-.kategori {
-    width: 100px;
-    position: relative;
-    left: 20px;
-}
-
-#kategori {
-    position: relative;
-    left: 90px;
-    top: 55px;
-}
-
-.topup {
-    position: relative;
-    left: 500px;
-    top: 5px;
-}
-
-.topup h2 {
-    font-size: 20px;
-}
+        .slider {
+            position: relative;
+            left: 300px;
+            top: 40px;
+            border-radius: 20px;
+            width: 800px;
+        }
+        
+        #slider1 {
+            border-radius: 20px;
+        }
+        
+        #slider2 {
+            border-radius: 20px;
+        }
+        
+        #slider3 {
+            border-radius: 20px;
+        }
+        
+        .kategori h2 {
+            position: relative;
+            left: 95px;
+            top: 50px;
+            font-size: 20px;
+        }
+        
+        .kategori1 {
+            position: relative;
+            background-size: 100%;
+            width: 100px;
+            height: 100px;
+            top: 55px;
+            left: 35px;
+        }
+        
+        .kategori {
+            width: 100px;
+            position: relative;
+            left: 20px;
+        }
+        
+        #kategori {
+            position: relative;
+            left: 90px;
+            top: 55px;
+        }
+        
+        #kategori1 {
+            border: 2px;
+            border-color: black;
+            border-style: solid;
+        }
+        
+        .topup {
+            position: relative;
+            left: 600px;
+            bottom: 400px;
+        }
+        
+        .topup h2 {
+            font-size: 20px;
+            position: relative;
+            top: 9px;
+            left: 15px;
+        }
+        
+        .pulsa h1 {
+            font-size: 15px;
+            position: relative;
+            left: 20px;
+            top: 10px;
+        }
+        
+        .paket h1 {
+            font-size: 15px;
+            position: relative;
+            left: 60px;
+            bottom: 26px;
+        }
+        
+        .pulsa p {
+            font-size: 15px;
+            position: relative;
+            left: 20px;
+            top: 15px;
+        }
+        
+        .nohp p {
+            font-size: 13px;
+            left: 20px;
+            position: relative;
+        }
+        
+        #inputnomer {
+            width: 250px;
+            position: relative;
+            left: 20px;
+        }
+        
+        .cari h2 {
+            position: relative;
+            left: 115px;
+            bottom: 350px;
+            font-size: 20px;
+        }
+        
+        .gambarcari {
+            position: relative;
+            bottom: 350px;
+            left: 100px;
+            width: 100%;
+        }
+        
+        .official h1 {
+            font-size: 20px;
+        }
+        
+        .lengkapi h2 {
+            font-size: 20px;
+        }
