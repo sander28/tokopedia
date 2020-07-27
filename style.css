@@ -1,0 +1,57 @@
+.slider {
+    position: relative;
+    left: 300px;
+    top: 40px;
+    border-radius: 20px;
+    width: 800px;
+}
+
+#slider1 {
+    border-radius: 20px;
+}
+
+#slider2 {
+    border-radius: 20px;
+}
+
+#slider3 {
+    border-radius: 20px;
+}
+
+.kategori h2 {
+    position: relative;
+    left: 100px;
+    top: 50px;
+    font-size: 20px;
+}
+
+.kategori1 {
+    position: relative;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+    top: 55px;
+    left: 35px;
+}
+
+.kategori {
+    width: 100px;
+    position: relative;
+    left: 20px;
+}
+
+#kategori {
+    position: relative;
+    left: 90px;
+    top: 55px;
+}
+
+.topup {
+    position: relative;
+    left: 500px;
+    top: 5px;
+}
+
+.topup h2 {
+    font-size: 20px;
+}
