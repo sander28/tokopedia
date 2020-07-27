@@ -1,3 +1,8 @@
+@media only screen and (min-width : 400px) {
+
+    .container { width: 1500px; } 
+
+}
 .slider {
     position: relative;
     left: 300px;
@@ -37,6 +42,7 @@
 .kategori {
     width: 100px;
     position: relative;
+    /* height: 500px; */
     left: 20px;
 }
 
